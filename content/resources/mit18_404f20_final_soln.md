@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-404j-theory-of-computation-fall-2020/bcd8ef382d00e6c7b448610776606fdf_MIT18_404f20_final_soln.pdf
+file: /media/courses/18-404j-theory-of-computation-fall-2020/bcd8ef382d00e6c7b448610776606fdf_MIT18_404f20_final_soln.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 18.404J F2006 Sample Final Exam Solutions
 uid: bcd8ef38-2d00-e6c7-b448-610776606fdf

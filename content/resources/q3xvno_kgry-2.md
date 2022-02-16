@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-404j-theory-of-computation-fall-2020/e3fd9e52a02c5f88aac8978bca9effef_q3xvno_KgRY.vtt
+file: /media/courses/18-404j-theory-of-computation-fall-2020/e3fd9e52a02c5f88aac8978bca9effef_q3xvno_KgRY.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: e3fd9e52-a02c-5f88-aac8-978bca9effef

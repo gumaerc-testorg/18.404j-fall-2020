@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 21: Hierarchy Theorems'
 uid: 63b47216-97ff-b188-2311-acf2fc4543d7
 video_files:
   archive_url: https://archive.org/download/MIT18.404F20/MIT18_404F20_lec21_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-404j-theory-of-computation-fall-2020/fcaaf51962145ac0abfd05dddd2b703a_vqFRAWeEcUs.vtt
+  video_captions_file: /courses/18-404j-theory-of-computation-fall-2020/fcaaf51962145ac0abfd05dddd2b703a_vqFRAWeEcUs.vtt
   video_thumbnail_file: https://img.youtube.com/vi/vqFRAWeEcUs/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-404j-theory-of-computation-fall-2020/5f10f0b037667fb9a9eda63833093400_vqFRAWeEcUs.pdf
+  video_transcript_file: /courses/18-404j-theory-of-computation-fall-2020/5f10f0b037667fb9a9eda63833093400_vqFRAWeEcUs.pdf
 video_metadata:
   youtube_id: vqFRAWeEcUs
 ---

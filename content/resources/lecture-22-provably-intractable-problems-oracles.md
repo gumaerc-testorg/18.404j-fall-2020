@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 22: Provably Intractable Problems, Oracles'
 uid: 8c5da37d-9a84-95cd-7aad-aed30ad3a7e1
 video_files:
   archive_url: https://archive.org/download/MIT18.404F20/MIT18_404F20_lec22_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-404j-theory-of-computation-fall-2020/4583bd83fcd552aeae54d87b356aca0c_N32bnUliSzo.vtt
+  video_captions_file: /courses/18-404j-theory-of-computation-fall-2020/4583bd83fcd552aeae54d87b356aca0c_N32bnUliSzo.vtt
   video_thumbnail_file: https://img.youtube.com/vi/N32bnUliSzo/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/18-404j-theory-of-computation-fall-2020/88786eaf01c47ee97d9afbc902d98608_N32bnUliSzo.pdf
+  video_transcript_file: /courses/18-404j-theory-of-computation-fall-2020/88786eaf01c47ee97d9afbc902d98608_N32bnUliSzo.pdf
 video_metadata:
   youtube_id: N32bnUliSzo
 ---

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9538179d-0a8c-f37b-2978-c646d0cf6d89
 ---
@@ -42,9 +44,9 @@ Following student recommendations, we can de-emphasize (but not eliminate) the m
 Textbook
 --------
 
-Sipser, Michael. _Introduction to the Theory of Computation_. 3rd ed. Cengage Learning, 2012. ISBN: 9781133187790.
+Sipser, Michael. _Introduction to the Theory of Computation_. 3{{< sup "rd" >}} ed. Cengage Learning, 2012. ISBN: 9781133187790.
 
-You may use the second edition, but it is missing some additional practice problems. [Errata for 2nd edition of textbook](http://www-math.mit.edu/~sipser/itoc-errs2.1.html).
+You may use the second edition, but it is missing some additional practice problems. [Errata for 2{{< sup "nd" >}} edition of textbook](http://www-math.mit.edu/~sipser/itoc-errs2.1.html).
 
 We will cover Chapters 1, 2 (except 2.4), 3, 4, 5, 6.1, 7, 8, 9.1, 9.2, 10.2 (except the part on Primality), and 10.4 through Theorem 10.33.
 
