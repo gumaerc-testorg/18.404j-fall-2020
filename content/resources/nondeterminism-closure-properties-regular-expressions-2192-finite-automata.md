@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 2: Nondeterminism, Closure Properties, Regular Expressions \u2192\
   \ Finite Automata"
 uid: 76847d3e-78aa-9e54-9538-3881af23ea27

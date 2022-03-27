@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 17896f44-26bd-01ba-b07b-30e0fbd89cca
 resourcetype: Document
 title: 18.404J F2006 Sample Final Exam Solutions
 uid: bcd8ef38-2d00-e6c7-b448-610776606fdf

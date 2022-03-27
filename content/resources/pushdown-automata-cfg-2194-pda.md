@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "Lecture 4: Pushdown Automata, CFG \u2194 PDA"
 uid: 714d0f16-afa2-7f7d-6d57-d709828e6f1a
 video_files:
