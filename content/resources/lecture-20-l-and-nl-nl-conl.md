@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Reviewed \\(\\log\\) space: NL ⊆ SPACE\\((\\log^2n)\\) and NL ⊆ P. Introduced log-space transducers and log-space reducibility. Defined NL-completeness. Proved that \\(PATH\\) is NL-complete and \\(\\overline{2SAT}\\) is NL-complete. Proved the Immerman-Szelepcsényi theorem: NL = coNL.
 
 **Instructor:** Prof. Michael Sipser
+
+
+

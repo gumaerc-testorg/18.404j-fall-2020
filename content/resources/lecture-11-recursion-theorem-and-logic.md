@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Quickly reviewed last lecture. Discussed self-reference and the recursion theorem. Gave various applications. Sketched Gödel’s first incompleteness theorem in mathematical logic.
 
 **Instructor:** Prof. Michael Sipser
+
+
+

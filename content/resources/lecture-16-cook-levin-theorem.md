@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Quickly reviewed last lecture. Proved Cook-Levin Theorem: \\(SAT\\) is NP-complete. Also proved \\(3SAT\\) is NP-complete.
 
 **Instructor:** Prof. Michael Sipser
+
+
+

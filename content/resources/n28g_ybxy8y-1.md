@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-404j-theory-of-computation-fall-2020/87629dbae63a97eb64319b5a9f75db86_N28g_YBXY8Y.pdf
+file: /courses/18-404j-theory-of-computation-fall-2020/87629dbae63a97eb64319b5a9f75db86_N28g_YBXY8Y.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

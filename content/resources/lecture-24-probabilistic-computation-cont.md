@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Quickly reviewed last lecture. Simulated read-once branching programs by polynomials. Gave a probabilistic polynomial equality testing method. Concluded proving \\(EQ\\){{< sub "ROBP" >}} ∈ BPP.
 
 **Instructor:** Prof. Michael Sipser
+
+
+

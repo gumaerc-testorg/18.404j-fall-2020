@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Quickly reviewed last lecture. Defined probabilistic Turing machines and the class BPP. Sketched the amplification lemma. Introduced branching programs and read-once branching programs. Started the proof that \\(EQ\\){{< sub "ROBP" >}} ∈ BPP. Introduced the arithmetization method.
 
 **Instructor:** Prof. Michael Sipser
+
+
+

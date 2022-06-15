@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Quickly reviewed last lecture. Gave an introduction to complexity theory. Discussed limited complexity model-dependence for reasonable models. Defined TIME\\((t(n))\\) complexity classes and the class P. Showed that \\(PATH\\) ∈ P.
 
 **Instructor:** Prof. Michael Sipser
+
+
+

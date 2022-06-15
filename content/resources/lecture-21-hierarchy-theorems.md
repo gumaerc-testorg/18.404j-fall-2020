@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Quickly reviewed last lecture. Finished Immerman-Szelepcsényi theorem: NL = coNL. Introduced and proved the time and space hierarchy theorems. Discussed using the hierarchy theorems to separate certain complexity classes.
 
 **Instructor:** Prof. Michael Sipser
+
+
+

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes textbook and reading assignments for each lecture.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

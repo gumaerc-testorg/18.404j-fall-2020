@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Quickly reviewed last lecture. Introduced exponential complexity classes and demonstrated a “natural” provably intractable problem. Introduced oracles and relativized computation to suggest that pure diagonalization-based methods cannot separate P and NP.
 
 **Instructor:** Prof. Michael Sipser
+
+
+

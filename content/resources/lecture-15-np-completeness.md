@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Quickly reviewed last lecture. Covered NP-completeness; \\(SAT\\) and \\(3SAT\\); \\(3SAT\\) ≤\\(\_P\\) \\(HAMPATH\\); and \\(3SAT\\) ≤\\(\_P\\) \\(CLIQUE\\). Discussed a strategy for proving NP-completeness with a reduction from \\(3SAT\\) by constructing gadgets that simulate variables and clauses.
 
 **Instructor:** Prof. Michael Sipser
+
+
+
