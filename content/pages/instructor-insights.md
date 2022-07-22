@@ -1,12 +1,15 @@
 ---
 content_type: page
+description: In this section, Prof. Michael Sipser describes various aspects of how
+  he taught 18.404 Theory of Computation in Fall 2020, during the Covid-19 pandemic.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 67debd1a-a644-51d6-839a-0a0c43298791
 ---
-
-Instructor Insights
--------------------
+## Instructor Insights
 
 Below, Prof. Michael Sipser describes various aspects of how he taught _18.404 Theory of Computation_ in Fall 2020, during the Covid-19 pandemic.
 
@@ -56,8 +59,7 @@ Below, Prof. Michael Sipser describes various aspects of how he taught _18.404 T
 
 {{< /div-with-class >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
@@ -68,28 +70,24 @@ The students' grades were based on the following assessment elements:
 - 15% Midterm exam
 - 25% Final exam
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-*   [_6.042J Mathematics for Computer Science_](/courses/6-042j-mathematics-for-computer-science-spring-2015/)
-*   _[18.200 Principles of Discrete Applied Mathematics](/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/)_
+- [_6.042J Mathematics for Computer Science_](/courses/6-042j-mathematics-for-computer-science-spring-2015)
+- [_18.200 Principles of Discrete Applied Mathematics_](/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013)
 
 ### Requirements Satisfied
 
-*   18.404J can be applied toward a [Bachelor of Science in Mathematics](http://catalog.mit.edu/schools/science/mathematics/#mathematics-bs-course-18), but is not required.
-*   18.4041J can be applied toward a [Doctorate in Mathematics](https://math.mit.edu/academics/grad/index.php), but is not required.
-*   6.840J can be applied toward a [graduate degree in Electrical Engineering and Computer Science](https://www.eecs.mit.edu/academics-admissions/graduate-program/degree-programs/degrees-offered), but is not required.
+- 18.404J can be applied toward a [Bachelor of Science in Mathematics](http://catalog.mit.edu/schools/science/mathematics/#mathematics-bs-course-18), but is not required.
+- 18.4041J can be applied toward a [Doctorate in Mathematics](https://math.mit.edu/academics/grad/index.php), but is not required.
+- 6.840J can be applied toward a [graduate degree in Electrical Engineering and Computer Science](https://www.eecs.mit.edu/academics-admissions/graduate-program/degree-programs/degrees-offered), but is not required.
 
 ### Offered
 
 Every fall semester
 
-Student Information
--------------------
-
-![About 250 students took this course when it was taught in fall 2020.]({{< resource_file edd46fa1-16d2-2681-a970-b9be8912a7e0 >}})
+## Student Information
 
 ### Enrollment
 
@@ -99,22 +97,18 @@ Increasing in recent years, from about 120 to about 250 students.
 
 Approximately 40% EECS majors, 25% EECS graduate students, 20% math majors, 5% physics majors, and 10% others.
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Lecture
--------
+### Lecture
 
 Met 2 times per week for 1.5 hours per session; 26 sessions total; mandatory attendance
 
-Recitation
-----------
+### Recitation
 
 In recitations, teaching assistants reviewed material covered in the lectures, guided students through practice problems, and answered questions.
 
-Out of Class
-------------
+### Out of Class
 
 Outside of class, students completed problem sets and studied for exams.

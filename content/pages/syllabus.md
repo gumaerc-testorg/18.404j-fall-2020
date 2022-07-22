@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes course meeting times, prerequisites, course description,
+  course outline, course format, textbook, recitation, and grading policy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9538179d-0a8c-f37b-2978-c646d0cf6d89
 ---
@@ -14,8 +18,8 @@ Recitations: 1 session / week, 1 hour / session
 Prerequisites
 -------------
 
-*   [_6.042J Mathematics for Computer Science_](/courses/6-042j-mathematics-for-computer-science-spring-2015/)
-*   _[18.200 Principles of Discrete Applied Mathematics](/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/)_
+*   [_6.042J Mathematics for Computer Science_](/courses/6-042j-mathematics-for-computer-science-spring-2015)
+*   _[18.200 Principles of Discrete Applied Mathematics](/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013)_
 
 Course Description
 ------------------
@@ -42,9 +46,9 @@ Following student recommendations, we can de-emphasize (but not eliminate) the m
 Textbook
 --------
 
-Sipser, Michael. _Introduction to the Theory of Computation_. 3rd ed. Cengage Learning, 2012. ISBN: 9781133187790.
+Sipser, Michael. _Introduction to the Theory of Computation_. 3{{< sup "rd" >}} ed. Cengage Learning, 2012. ISBN: 9781133187790.
 
-You may use the second edition, but it is missing some additional practice problems. [Errata for 2nd edition of textbook](http://www-math.mit.edu/~sipser/itoc-errs2.1.html).
+You may use the second edition, but it is missing some additional practice problems. [Errata for 2{{< sup "nd" >}} edition of textbook](http://www-math.mit.edu/~sipser/itoc-errs2.1.html).
 
 We will cover Chapters 1, 2 (except 2.4), 3, 4, 5, 6.1, 7, 8, 9.1, 9.2, 10.2 (except the part on Primality), and 10.4 through Theorem 10.33.
 

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes textbook and reading assignments for each lecture.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 3bb6ca70-c7dd-533a-fad4-c5aad278c91a
 ---
