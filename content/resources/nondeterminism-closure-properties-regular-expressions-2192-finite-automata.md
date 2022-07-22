@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ video_metadata:
 **Description:** Quickly reviewed last lecture. Introduced nondeterministic finite automata (NFA). Proved that NFA and DFA are equivalent in power. Proved that the class of regular languages is closed under ◦, ∗. Showed conversion of regular expressions to NFAs.
 
 **Instructor:** Prof. Michael Sipser
-
-
 

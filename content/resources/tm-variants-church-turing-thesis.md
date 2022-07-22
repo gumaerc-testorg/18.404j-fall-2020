@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Quickly reviewed last lecture. Showed that various TM variants are all equivalent to the single-tape model. Discussed the Church-Turing Thesis: Turing machines are equivalent to “algorithms” and model-independence. Introduced notation for encoding objects and describing TMs.
 
 **Instructor:** Prof. Michael Sipser
-
-
 

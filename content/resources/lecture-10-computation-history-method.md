@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Quickly reviewed last lecture. Defined configurations and computation histories. Gave the computation history method to prove undecidability. Showed that \\(A\_\\bf{LBA}\\) is decidable; \\(E\_\\bf{LBA}\\), \\(PCP\\), and \\(ALL\_\\bf{CFG}\\) are undecidable.
 
 **Instructor:** Prof. Michael Sipser
-
-
 

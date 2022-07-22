@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Quickly reviewed last lecture. Proved the CFL pumping lemma as a tool for showing that languages are not context free. Defined Turing machines (TMs). Defined TM deciders (halt on all inputs).
 
 **Instructor:** Prof. Michael Sipser
-
-
 

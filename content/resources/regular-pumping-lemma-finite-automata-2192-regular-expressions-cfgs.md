@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ video_metadata:
 **Description:** Quickly reviewed last lecture. Showed conversion of DFAs to regular expressions. Gave a method for proving languages not regular by using the pumping lemma and closure properties. Introduced context free grammars (CFGs).
 
 **Instructor:** Prof. Michael Sipser
-
-
 

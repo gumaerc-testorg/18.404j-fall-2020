@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-404j-theory-of-computation-fall-2020/9abec948f75dd9ae39aa8137703f5582_oNsscmUwjMU.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Quickly reviewed last lecture. Showed that \\(\\mathbb{N}\\) and \\(\\mathbb{R}\\) are not the same size to introduce the diagonalization method and used it to prove \\(A\_\\bf{TM}\\) is undecidable. Introduced the reducibility method to show that \\(HALT\_\\bf{TM}\\) is undecidable.
 
 **Instructor:** Prof. Michael Sipser
-
-
 

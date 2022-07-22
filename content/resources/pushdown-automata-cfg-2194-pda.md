@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Quickly reviewed last lecture. Defined context free grammars (CFGs) and context free languages (CFLs). Defined pushdown automata (PDA). Gave conversion of CFGs to PDAs. Stated the reverse conversion without proof.
 
 **Instructor:** Prof. Michael Sipser
-
-
 

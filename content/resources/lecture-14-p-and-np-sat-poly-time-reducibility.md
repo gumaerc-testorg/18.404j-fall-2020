@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Quickly reviewed last lecture. Defined NTIME\\((t(n))\\) complexity classes and the class NP. Showed \\(COMPOSITES\\) ∈ NP. Discussed the P versus NP question. Proved \\(A\\){{< sub "CFG" >}} ∈ P. Introduced the satisfiability problem \\(SAT\\) and polynomial-time reducibility.
 
 **Instructor:** Prof. Michael Sipser
-
-
 

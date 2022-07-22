@@ -5,6 +5,7 @@ file: /courses/18-404j-theory-of-computation-fall-2020/bcd8ef382d00e6c7b44861077
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

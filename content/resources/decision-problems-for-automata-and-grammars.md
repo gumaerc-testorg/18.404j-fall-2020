@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Quickly reviewed last lecture. Showed the decidability of various problems about automata and grammars: \\(A\\){{< sub "DFA" >}}, \\(A\\){{< sub "NFA" >}}, \\(E\\){{< sub "DFA" >}}, \\(EQ\\){{< sub "DFA" >}}, and \\(A\\){{< sub "CFG" >}}. Also showed that \\(A\\){{< sub "TM" >}} is T-recognizable.
 
 **Instructor:** Prof. Michael Sipser
-
-
 

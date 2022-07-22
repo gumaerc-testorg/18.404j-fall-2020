@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Quickly reviewed last lecture. Discussed a connection between games and quantifiers. Described the formula game and showed that generalized geography is PSPACE-complete. Introduced log space: L and NL. Defined the configuration graph to prove NL ⊆ P.
 
 **Instructor:** Prof. Michael Sipser
-
-
 

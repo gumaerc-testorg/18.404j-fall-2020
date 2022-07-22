@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Quickly reviewed last lecture. Discussed the reducibility method to prove undecidability and T-unrecognizability. Defined mapping reducibility as a type of reducibility. Showed that \\(E\_\\bf{TM}\\) is undecidable and T-unrecognizable; \\(EQ\_\\bf{TM}\\) and \\(\\overline{EQ\_\\bf{TM}}\\) are T-unrecognizable.
 
 **Instructor:** Prof. Michael Sipser
-
-
 

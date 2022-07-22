@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Introduction; course outline, mechanics, and expectations. Described finite automata, their formal definition, regular languages, regular operations, and regular expressions. Proved that the class of regular languages is closed under ⋃. Started proving closure under ◦.
 
 **Instructor:** Prof. Michael Sipser
-
-
 

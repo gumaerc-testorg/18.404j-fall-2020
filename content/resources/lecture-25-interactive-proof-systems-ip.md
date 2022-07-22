@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Quickly reviewed last lecture. Introduced the interactive proof system model. Defined the class IP. Showed \\(\\overline{ISO}\\) ∈ IP. Started showing #\\(SAT\\) ∈ IP to prove that coNP ⊆ IP.
 
 **Instructor:** Prof. Michael Sipser
-
-
 
