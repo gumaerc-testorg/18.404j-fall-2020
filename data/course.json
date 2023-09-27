@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2020",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -46,8 +47,10 @@
     "Lecture Videos",
     "Problem Sets",
     "Exams",
-    "Lecture Notes"
+    "Lecture Notes",
+    "Instructor Insights"
   ],
-  "site_uid": "83fcbf8c-99d7-40f4-aa45-64ac26fcb179",
+  "site_uid": "b48937bb-3fbe-4d3d-b3f3-15cd545dfe20",
+  "site_short_id": "18.404j-fall-2020",
   "title": "Course Metadata"
 }
