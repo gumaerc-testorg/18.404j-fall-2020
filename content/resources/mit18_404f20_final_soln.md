@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-404j-theory-of-computation-fall-2020/bcd8ef382d00e6c7b448610776606fdf_MIT18_404f20_final_soln.pdf
+file: /ol-ocw-studio-app/courses/18-404j-theory-of-computation-fall-2020/bcd8ef382d00e6c7b448610776606fdf_MIT18_404f20_final_soln.pdf
 file_size: 133991
 file_type: application/pdf
 learning_resource_types:
