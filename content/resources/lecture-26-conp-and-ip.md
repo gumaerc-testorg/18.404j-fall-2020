@@ -2,8 +2,8 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/18-404j-theory-of-computation-fall-2020/fe9281999e2d720710e4b58de72aa7e0_MIT18_404f20_lec25.pdf
-file_size: 539508
+file: /ol-ocw-studio-app/courses/18-404j-theory-of-computation-fall-2020/7ac944716e076209c3964e073929f42e_MIT18_404f20_lec26.pdf
+file_size: 430607
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -17,8 +17,8 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 parent_uid: df711905-1b1b-43e5-65ea-6ab014405e75
 resourcetype: Document
-title: 'Lecture 25: Interactive Proof Systems, IP'
-uid: fe928199-9e2d-7207-10e4-b58de72aa7e0
+title: 'Lecture 26: coNP and  IP'
+uid: 7ac94471-6e07-6209-c396-4e073929f42e
 video_files:
   archive_url: ''
   video_captions_file: ''

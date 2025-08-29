@@ -2,23 +2,23 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/18-404j-theory-of-computation-fall-2020/fe9281999e2d720710e4b58de72aa7e0_MIT18_404f20_lec25.pdf
-file_size: 539508
+file: /ol-ocw-studio-app/courses/18-404j-theory-of-computation-fall-2020/910c70b3e11724947d47ea900c7ab4fd_MIT18_404f20_hw1.pdf
+file_size: 87283
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Problem Sets
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
-parent_title: Lecture Notes
+parent_title: Assignments
 parent_type: CourseSection
-parent_uid: df711905-1b1b-43e5-65ea-6ab014405e75
+parent_uid: 227024dc-0ac2-a8b4-d6b0-24caeca87cd8
 resourcetype: Document
-title: 'Lecture 25: Interactive Proof Systems, IP'
-uid: fe928199-9e2d-7207-10e4-b58de72aa7e0
+title: Problem Set 1
+uid: 910c70b3-e117-2494-7d47-ea900c7ab4fd
 video_files:
   archive_url: ''
   video_captions_file: ''
