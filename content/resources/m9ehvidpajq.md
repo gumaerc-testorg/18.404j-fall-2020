@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-404j-theory-of-computation-fall-2020/36cf47e6980c6d8f674ee42423f9490d_m9eHViDPAJQ.srt
+file: /ol-ocw-studio-app/courses/18-404j-theory-of-computation-fall-2020/36cf47e6980c6d8f674ee42423f9490d_m9eHViDPAJQ.srt
 file_size: 101508
 file_type: application/x-subrip
 learning_resource_types: []
