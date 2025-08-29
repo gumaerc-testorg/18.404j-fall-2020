@@ -32,6 +32,8 @@
     "website": "18-404j-theory-of-computation-fall-2020"
   },
   "course_title": "Theory of Computation",
+  "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "This course emphasizes computability and computational complexity theory. Topics include regular and context-free languages, decidable and undecidable problems, reducibility, recursive function theory, time and space measures on computation, completeness, hierarchy theorems, inherently complex problems, oracles, probabilistic computation, and interactive proof systems.\n",
   "department_numbers": [
     "18",
@@ -48,9 +50,11 @@
     "Problem Sets",
     "Exams",
     "Lecture Notes",
-    "Instructor Insights"
+    "Instructor Insights",
+    "Editable Files"
   ],
   "site_uid": "b48937bb-3fbe-4d3d-b3f3-15cd545dfe20",
   "site_short_id": "18.404j-fall-2020",
+  "site_url_path": "courses/18-404j-theory-of-computation-fall-2020",
   "title": "Course Metadata"
 }
