@@ -15,7 +15,7 @@ All problems are from the 2nd edition of the textbook:
 
 Sipser, Michael. *Introduction to the Theory of Computation*. 2nd ed. Boston, MA: Thomson Course Technology, 2006. ISBN: 0534950973.
 
-[Errata for 2nd edition of textbook](http://www-math.mit.edu/~sipser/itoc-errs2.1.html).
+{{% resource_link "1a5619d8-0748-4b7c-b4f7-f6c622796510" "Errata for 2nd edition of textbook" %}}.
 
 {{% resource_link "910c70b3-e117-2494-7d47-ea900c7ab4fd" "Problem Set 1 (PDF)" %}}
 
