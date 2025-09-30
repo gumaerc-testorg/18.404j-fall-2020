@@ -43,7 +43,7 @@ Below, Prof. Michael Sipser describes various aspects of how he taught _18.404 T
 
 **OCW:** How did you develop a sense of community for graduate students while teaching remotely?
 
-**Michael Sipser:** I left it up to the students themselves to form communities.  I offered them community-building resources such as the math-department’s [Pset Partners](https://psetpartners-test.mit.edu/about) tool that is excellent, as well as [Piazza](https://piazza.com/signup).
+**Michael Sipser:** I left it up to the students themselves to form communities.  I offered them community-building resources such as the math-department’s {{% resource_link "ce59c8e2-08d2-448f-90d5-dda96f3055a5" "Pset Partners" %}} tool that is excellent, as well as {{% resource_link "ec01f0c9-3a52-4a81-a53e-2a1dcbe5faa7" "Piazza" %}}.
 
 **OCW:** Even before sharing your updated materials on OCW, you made your source files from Fall 2020 openly available to educators on your website. Tell us about your commitment to sharing open educational resources (OER). What motivates you to share?
 
@@ -79,9 +79,9 @@ The students' grades were based on the following assessment elements:
 
 ### Requirements Satisfied
 
-- 18.404J can be applied toward a [Bachelor of Science in Mathematics](http://catalog.mit.edu/schools/science/mathematics/#mathematics-bs-course-18), but is not required.
-- 18.4041J can be applied toward a [Doctorate in Mathematics](https://math.mit.edu/academics/grad/index.php), but is not required.
-- 6.840J can be applied toward a [graduate degree in Electrical Engineering and Computer Science](https://www.eecs.mit.edu/academics-admissions/graduate-program/degree-programs/degrees-offered), but is not required.
+- 18.404J can be applied toward a {{% resource_link "0741ff72-01d0-4723-b575-28feefc8f3fc" "Bachelor of Science in Mathematics" %}}, but is not required.
+- 18.4041J can be applied toward a {{% resource_link "9989a6e0-8adb-4484-aff1-e107a08c5595" "Doctorate in Mathematics" %}}, but is not required.
+- 6.840J can be applied toward a {{% resource_link "8056b049-4b3b-4532-988c-1ce5cad126d1" "graduate degree in Electrical Engineering and Computer Science" %}}, but is not required.
 
 ### Offered
 
