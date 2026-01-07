@@ -39,7 +39,7 @@ Course Outline
 Online Course Format
 --------------------
 
-This course is offered entirely online while the MIT campus is shut down due to the {{% resource_link "5783e00c-adb0-4f6e-b514-e6e2aa490def" "Covid-19 pandemic" %}}. Lectures are offered live online via Zoom. The lectures are also recorded for viewing at a later time to accomodate students who cannot participate in the live lectures due to time-zone differences or other reasons. Weekly TA-led recitations are offered both live online and in person, at various times.
+This course is offered entirely online while the MIT campus is shut down due to the [Covid-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic). Lectures are offered live online via Zoom. The lectures are also recorded for viewing at a later time to accomodate students who cannot participate in the live lectures due to time-zone differences or other reasons. Weekly TA-led recitations are offered both live online and in person, at various times.
 
 Following student recommendations, we can de-emphasize (but not eliminate) the midterm and final exams by adding graded live mini-quizzes for credit during the lectures, to be conducted via Zoom's polling feature. For students viewing a recorded lecture, an alternate timed and graded recorded mini-quiz will be available, but it must be completed within 24 hours of the original live lecture. Students may chose whether to take the live mini-quiz or the recorded mini-quiz on a lecture-by-lecture basis, and if both are taken for any given lecture, the higher score will be used. We expect that all students will complete the exams and mini-quizzes on their own individually, without assistance from others.
 
@@ -48,7 +48,7 @@ Textbook
 
 Sipser, Michael. _Introduction to the Theory of Computation_. 3{{< sup "rd" >}} ed. Cengage Learning, 2012. ISBN: 9781133187790.
 
-You may use the second edition, but it is missing some additional practice problems. {{% resource_link "1a5619d8-0748-4b7c-b4f7-f6c622796510" "Errata for 2{{< sup \"nd\" >}} edition of textbook" %}}.
+You may use the second edition, but it is missing some additional practice problems. [Errata for 2{{< sup "nd" >}} edition of textbook](http://www-math.mit.edu/~sipser/itoc-errs2.1.html).
 
 We will cover Chapters 1, 2 (except 2.4), 3, 4, 5, 6.1, 7, 8, 9.1, 9.2, 10.2 (except the part on Primality), and 10.4 through Theorem 10.33.
 
